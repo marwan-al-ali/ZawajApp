@@ -1,0 +1,12 @@
+<h1 style="color: purple">This is The Login Category</h1>
+<form #myForm="ngForm" (ngSubmit)="onSubmit()">
+    <label>
+        id:
+    </label>
+    <input type="text" name="id" [(ngModel)]="cat.id">
+    <label>
+        name:
+    </label>
+    <input type="text" name="name" [(ngModel)]="cat.name">
+    <input type="submit" value="Send Data">
+</form>
