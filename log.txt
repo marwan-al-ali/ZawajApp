@@ -329,3 +329,9 @@ PS C:\Users\Marwan\AppData\Roaming\npm\node_modules\@angular\cli>
 
 
 PS D:\My WEB\Zawaj\ZawajApp-SPA> npm i bootstrap@4.1.1 font-awesome@4.7.0
+
+PS D:\My WEB\Zawaj> git init
+PS D:\My WEB\Zawaj> git status
+PS D:\My WEB\Zawaj> git config --global user.name "Marwan Al Ali"
+PS D:\My WEB\Zawaj> git config --global user.email marwankali@gmail.com
+PS D:\My WEB\Zawaj> git remote add origin https://github.com/marwan-al-ali/ZawajApp.git
